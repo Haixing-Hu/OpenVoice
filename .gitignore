@@ -11,3 +11,13 @@ examples*
 build
 *.egg-info/
 *.zip
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+.openvoice-env/
+ENV/
+env.bak/
+venv.bak/
